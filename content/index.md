@@ -9,7 +9,8 @@
 }  
 --- 
 
-You have just landed to my personal website. Welcome!
+
+Welcome! You have landed to Nikon Sugar's personal website.
 
 This is everything about my thoughts, my notes and my family memoirs to keep.
 
