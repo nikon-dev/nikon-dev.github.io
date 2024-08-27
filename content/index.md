@@ -9,10 +9,7 @@
 }  
 --- 
 
-
-Welcome! You have landed to Nikon Sugar's personal website.
-
-This is everything about my thoughts, my notes and my family memoirs to keep.
+Welcome! You have landed to Nikon Sugar's personal website. This is everything about my thoughts, my notes and my family memoirs to keep.
 
 # Contents
 

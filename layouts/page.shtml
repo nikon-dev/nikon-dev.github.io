@@ -10,6 +10,11 @@
        margin-top: 50px;
      }
 
+	#author {
+	    font-size: 1rem;
+	    font-style: italic;
+    }
+
 		#page h2, #page h3 {
 			text-align: left;
 		}
@@ -51,6 +56,8 @@
 
   </style>
   <h1 class="title" var="$page.title"></h1>
+  <!-- <div><label>Author: </label><label id="author" var="$page.author"></label></div> -->
+  <!-- <input type="date" value="2024-08-26T00:00:00"> -->
   <div id="page" var="$page.content"></div>
 
   <div class="btn"><a href="/">HOME</a></div>

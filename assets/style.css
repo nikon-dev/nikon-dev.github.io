@@ -116,7 +116,7 @@ nav a:hover {
   align-self: center;
   box-sizing: border-box;
   padding: 0 30px;
-  max-width: min(600px, 100vw);
+  max-width: min(800px, 100vw);
 }
 
 .centered {
