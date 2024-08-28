@@ -18,13 +18,15 @@
 - [My second post](/posts/my-second-post)
 
 ## [Notes](/notes)
-- [Technology](/notes/tech)
-    + [Computer](/notes/tech/computer)
-    + [AI](/notes/tech/AI)
-    + [Robotics](/notes/tech/robotics)
-- [Medicine](/notes/med)
-- [Life](/notes/life)
 
+- [Technology](/notes/tech)
+  + [Computer](/notes/tech/computer)
+  + [AI](/notes/tech/AI)
+  + [Robotics](/notes/tech/robotics)
+
+- [Medicine](/notes/med)
+
+- [Life](/notes/life)
 
 ## [My dad's memoirs](/my-dad-memoirs)
 - [Script](/my-dad-memoirs/script)

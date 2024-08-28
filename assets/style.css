@@ -112,6 +112,13 @@ nav a:hover {
   text-decoration: underline;
 }
 
+ul {
+}
+
+ul > li > ul > li {
+  list-style-type: "+ ";
+}
+
 #content {
   align-self: center;
   box-sizing: border-box;
@@ -222,7 +229,7 @@ figure img {
 
 .title {
   font-family: 'Bebas Neue', sans-serif;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 
