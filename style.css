@@ -94,7 +94,7 @@ body {
 }
 
 p {
-  line-height: 1.4;
+  line-height: 1.6;
 }
 
 nav {
@@ -229,7 +229,7 @@ figure img {
 @media (max-width:480px) {
   .btn{
     font-size: 1.2rem;
-    margin: 3px;
+    margin: 1px;
   }
   .btn a{
     padding: 3px;
