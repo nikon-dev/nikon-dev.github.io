@@ -228,14 +228,15 @@ figure img {
 
 @media (max-width:480px) {
   .btn{
-    font-size: 1rem;
+    font-size: 1.2rem;
+    margin: 3px;
   }
   .btn a{
     padding: 3px;
   }
 
   body {
-    font-size: 0.8rem;
+    /* font-size: 0.8rem; */
   }
 
   .title {
