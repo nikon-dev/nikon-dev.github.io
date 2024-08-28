@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head id="head">
+    <meta charset="UTF-8">
+    <meta name="description" content="nikon.dev - Everything by Nikon Sugar">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@sugarme">
+    <meta name="twitter:author" content="@sugarme">
+    <meta name="twitter:description" content="nikon.dev - Everything by Nikon Sugar">
+    <meta name="twitter:title" content="Matrix Multiplication Optimisation | nikon.dev">
+    <meta property="og:title" content="Matrix Multiplication Optimisation">
+    <meta property="og:type" content="website">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title id="title">
+      Matrix Multiplication Optimisation
+      - nikon.dev
+    </title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+    <link rel="stylesheet" type="text/css" href="/highlight.css">
+    
+  </head>
+  <body>
+    <!-- <nav id="menu" class="centered"> -->
+    <!--   <a href="/">Home</a> -->
+    <!--   • -->
+    <!--   <a href="/notes/">Notes</a> -->
+    <!--   • -->
+    <!--   <a href="/posts/">Blog</a> -->
+    <!--   • -->
+    <!--   <a href="/my-dad-memoirs/">My Dad's Memoirs</a> -->
+    <!--   • -->
+    <!--   <a href="/about/">About Me</a> -->
+    <!-- </nav> -->
+
+    <div id="content">
+      
+  <style>
+    h3.overtitle {
+       margin-bottom: 0;
+     }
+     h1.title {
+       margin-top: 50px;
+     }
+  </style>
+  <h1 class="title" >Matrix Multiplication Optimisation</h1>
+  <div id="page" ><p>Matrix muliplication (matmul) is a fundamental operation in machine learning. It is often the bottle-neck of model training and inference performance. This note is to review some recent techniques to optimise matmul efficiency.</p><p><i>This is a sample code of matrix multiplication in Zig</i></p><pre><code class="zig"><span class="type qualifier">const</span> <span class="variable">std</span> = <span class="function builtin">@import</span><span class="punctuation bracket">(</span><span class="string">"std"</span><span class="punctuation bracket">)</span><span class="punctuation delimiter">;</span>
+<span class="type qualifier">const</span> <span class="variable">log</span> = <span class="variable">std</span><span class="punctuation delimiter">.</span><span class="field">log</span><span class="punctuation delimiter">.</span><span class="function">scoped</span><span class="punctuation bracket">(</span><span class="string">"matmul"</span><span class="punctuation bracket">)</span><span class="punctuation delimiter">;</span>
+
+<span class="variable">log</span><span class="punctuation delimiter">.</span><span class="function">info</span><span class="punctuation bracket">(</span><span class="string">"Here is the matmul optimisation to be upated."</span><span class="punctuation delimiter">,</span> <span class="punctuation delimiter">.</span><span class="punctuation bracket">{</span><span class="punctuation bracket">}</span><span class="punctuation bracket">)</span><span class="error">;</span>
+</code></pre>
+<p><i>Here is a sample in Go language</i></p><pre><code class="go"><span class="keyword">package</span> main
+
+<span class="keyword">import</span>(
+    <span class="string">"fmt"</span>
+)
+
+<span class="keyword">func</span> <span class="function">main</span>(){
+    <span class="variable">fmt</span>.<span class="function method">Println</span>(<span class="string">"Here is matmul to be updated..."</span>)
+}
+</code></pre>
+</div>
+
+  <div id="nav-container">
+	<div class="btn"><a href="/">home</a></div>
+	<div class="btn"><a href="/posts">blog</a></div>
+	<div class="btn"><a href="/notes/tech">technology</a></div>
+	<div class="btn"><a href="/notes/med">medicine</a></div>
+	<div class="btn"><a href="/notes/life">life</a></div>
+  </div>
+
+
+    </div>
+  </body>
+</html>
