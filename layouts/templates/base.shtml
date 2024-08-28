@@ -21,17 +21,17 @@
     <super>
   </head>
   <body>
-    <nav id="menu" class="centered">
-      <a href="/">Home</a>
-      •
-      <a href="/notes/">Notes</a>
-      •
-      <a href="/posts/">Blog</a>
-      •
-      <a href="/my-dad-memoirs/">My Dad's Memoirs</a>
-      •
-      <a href="/about/">About Me</a>
-    </nav>
+    <!-- <nav id="menu" class="centered"> -->
+    <!--   <a href="/">Home</a> -->
+    <!--   • -->
+    <!--   <a href="/notes/">Notes</a> -->
+    <!--   • -->
+    <!--   <a href="/posts/">Blog</a> -->
+    <!--   • -->
+    <!--   <a href="/my-dad-memoirs/">My Dad's Memoirs</a> -->
+    <!--   • -->
+    <!--   <a href="/about/">About Me</a> -->
+    <!-- </nav> -->
 
     <div id="content">
       <super>

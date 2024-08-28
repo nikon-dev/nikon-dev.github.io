@@ -1,16 +1,11 @@
 <extend template="base.shtml">
 <title id="title" var="$page.title"></title>
-<head id="head"></head>
-<div id="content">
+<head id="head">
   <style>
-    h3.overtitle {
-       margin-bottom: 0;
-     }
-     h1.title {
-       margin-top: 50px;
-     }
   </style>
-  <h1 class="title" var="$page.title"></h1>
+</head>
+<div id="content">
+  <h1 class="centered title" var="$page.title"></h1>
   <div id="page" var="$page.content"></div>
 
   <div id="nav-container">
@@ -18,7 +13,5 @@
 	<div class="btn"><a href="/posts">blog</a></div>
 	<div class="btn"><a href="/notes/tech">technology</a></div>
 	<div class="btn"><a href="/notes/med">medicine</a></div>
-	<div class="btn"><a href="/notes/life">life</a></div>
   </div>
-
 </div>

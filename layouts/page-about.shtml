@@ -3,12 +3,7 @@
 <head id="head"></head>
 <div id="content">
   <style>
-    h3.overtitle {
-       margin-bottom: 0;
-     }
-     h1.title {
-       margin-top: 50px;
-     }
+
   </style>
   <h1 class="title" var="$page.title"></h1>
   <div id="page" var="$page.content"></div>
@@ -20,5 +15,4 @@
 	<div class="btn"><a href="/notes/med">medicine</a></div>
 	<div class="btn"><a href="/notes/life">life</a></div>
   </div>
-
 </div>

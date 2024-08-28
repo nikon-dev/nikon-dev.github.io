@@ -5,14 +5,11 @@
   </style>
 </head>
 <div id="content">
-  <h1 class="centered title">nikon.dev</h1>
+  <h1 class="centered title" var="$page.title"></h1>
   <div id="page" var="$page.content"></div>
 
   <div id="nav-container">
 	<div class="btn"><a href="/">home</a></div>
 	<div class="btn"><a href="/posts">blog</a></div>
-	<div class="btn"><a href="/notes/tech">technology</a></div>
-	<div class="btn"><a href="/notes/med">medicine</a></div>
-	<div class="btn"><a href="/notes/life">life</a></div>
   </div>
 </div>

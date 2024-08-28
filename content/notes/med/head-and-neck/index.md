@@ -1,14 +1,13 @@
 ---
 {
-    .title = "About me",
+    .title = "Head and Neck Diseases",
     .date = @date("2024-08-26T00:00:00"),
     .author = "Nikon Sugar",
     .draft = false,
-    .layout = "page-about.shtml",
+    .layout = "index-med.shtml",
     .tags = [],
 }  
 --- 
 
-This is a page about myself. To be updated...
-
+- [News](/notes/med/news)
 

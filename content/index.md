@@ -9,24 +9,24 @@
 }  
 --- 
 
-Welcome! You have landed to Nikon Sugar's personal website. This is everything about my thoughts, my notes and my family memoirs to keep.
+*Welcome! You have landed to Nikon Sugar's personal website. This is everything about my thoughts, my notes and my family memoirs to keep.*
 
-# Contents
-
-## [Home](/)
-
-## [Notes](/notes)
-
-- [My first note](/notes/my-first-note)
-- [My second note](/notes/my-second-note)
-
+<!-- # Contents -->
 ## [Blog](/posts)
-
+(*recent posts*)
 - [My first post](/posts/my-first-post)
 - [My second post](/posts/my-second-post)
 
-## [My dad's memoirs](/my-dad-memoirs)
+## [Notes](/notes)
+- [Technology](/notes/tech)
+    + [Computer](/notes/tech/computer)
+    + [AI](/notes/tech/AI)
+    + [Robotics](/notes/tech/robotics)
+- [Medicine](/notes/med)
+- [Life](/notes/life)
 
+
+## [My dad's memoirs](/my-dad-memoirs)
 - [Script](/my-dad-memoirs/script)
 - [Audios](/my-dad-memoirs/audios)
 

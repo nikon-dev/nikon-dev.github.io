@@ -1,6 +1,6 @@
 ---
 {
-    .title = "Notes",
+    .title = "Respiratory Diseases",
     .date = @date("2024-08-26T00:00:00"),
     .author = "Nikon Sugar",
     .draft = false,
@@ -9,10 +9,8 @@
 }  
 --- 
 
-## Notes
+Note of respiratory system
 
-- [My first note](/notes/my-first-note)
-- [My second note](/notes/my-second-note)
+## Contents
 
-
-
+- [COPD](/notes/med/respiratory/COPD)

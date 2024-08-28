@@ -1,14 +1,13 @@
 ---
 {
-    .title = "About me",
+    .title = "Computer",
     .date = @date("2024-08-26T00:00:00"),
     .author = "Nikon Sugar",
     .draft = false,
-    .layout = "page-about.shtml",
+    .layout = "index-notes.shtml",
     .tags = [],
 }  
 --- 
 
-This is a page about myself. To be updated...
-
+- [General](/notes/tech/robotics)
 

@@ -1,14 +1,13 @@
 ---
 {
-    .title = "About me",
+    .title = "Life",
     .date = @date("2024-08-26T00:00:00"),
     .author = "Nikon Sugar",
     .draft = false,
-    .layout = "page-about.shtml",
+    .layout = "index-life.shtml",
     .tags = [],
 }  
 --- 
 
-This is a page about myself. To be updated...
-
+- [Rules of life](/notes/life/rules-of-life)
 

@@ -1,14 +1,12 @@
 ---
 {
-    .title = "About me",
+    .title = "AI",
     .date = @date("2024-08-26T00:00:00"),
     .author = "Nikon Sugar",
     .draft = false,
-    .layout = "page-about.shtml",
+    .layout = "index-tech.shtml",
     .tags = [],
 }  
 --- 
 
-This is a page about myself. To be updated...
-
-
+- [news](/notes/tech/AI/news)
