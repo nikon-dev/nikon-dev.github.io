@@ -9,9 +9,9 @@
 }  
 --- 
 
+- [News](/notes/med/news)
 - [General](/notes/med/general)
 - [Mnemonics](/notes/med/mnemonics)
-- [News](/notes/med/news)
 
 - [Head and Neck](/notes/med/head-and-neck)
 - [ENT](/notes/med/ent)
