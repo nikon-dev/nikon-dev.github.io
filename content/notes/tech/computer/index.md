@@ -1,6 +1,6 @@
 ---
 {
-    .title = "Computer",
+    .title = "Matmul Optimisation",
     .date = @date("2024-08-26T00:00:00"),
     .author = "Nikon Sugar",
     .draft = false,
@@ -9,5 +9,5 @@
 }  
 --- 
 
-- [General](/notes/tech/robotics)
+- [Matmul Optimisation](/notes/tech/computer/matmul-optimisation)
 
