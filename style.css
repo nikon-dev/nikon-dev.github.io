@@ -163,3 +163,50 @@ figure {
 figure img {
   max-width: 100%;
 }
+
+
+#page {
+        min-height: 400px;
+}
+
+#page h2, #page h3 {
+        text-align: left;
+}
+
+#page h2 {
+        font-size: 1.7rem;
+        border-bottom: 1px dashed #aaa;
+        margin-top: 2em;
+}
+
+#page h3 {
+        font-size: 1.5rem;
+}
+
+#page h4 {
+        font-size: 1rem;
+}
+
+.btn {
+        display: inline;
+        font-family: 'Bebas Neue', sans-serif;
+        font-weight: normal;
+        font-size: 1rem;
+        text-align: center;
+        margin: 1em;
+}
+
+.btn a {
+        color: black;
+        font-weight: normal;
+        background-color: #ccc;
+        border: 1px solid #ccc;
+        padding: 3px 10px;
+        text-decoration: none;
+}
+
+.btn a:hover {
+        background-color: white;
+}
+
+

@@ -21,17 +21,17 @@
     
   </head>
   <body>
-    <nav id="menu" class="centered">
-      <a href="/">Home</a>
-      •
-      <a href="/notes/">Notes</a>
-      •
-      <a href="/posts/">Blog</a>
-      •
-      <a href="/my-dad-memoirs/">My Dad's Memoirs</a>
-      •
-      <a href="/about/">About Me</a>
-    </nav>
+    <!-- <nav id="menu" class="centered"> -->
+    <!--   <a href="/">Home</a> -->
+    <!--   • -->
+    <!--   <a href="/notes/">Notes</a> -->
+    <!--   • -->
+    <!--   <a href="/posts/">Blog</a> -->
+    <!--   • -->
+    <!--   <a href="/my-dad-memoirs/">My Dad's Memoirs</a> -->
+    <!--   • -->
+    <!--   <a href="/about/">About Me</a> -->
+    <!-- </nav> -->
 
     <div id="content">
       
@@ -42,58 +42,18 @@
      h1.title {
        margin-top: 50px;
      }
-
-	#author {
-	    font-size: 1rem;
-	    font-style: italic;
-    }
-
-		#page h2, #page h3 {
-			text-align: left;
-		}
-
-		#page h2 {
-			font-size: 1.7rem;
-			border-bottom: 1px dashed #aaa;
-			margin-top: 2em;
-		}
-
-		#page h3 {
-			font-size: 1.5rem;
-		}
-    
-		#page h4 {
-			font-size: 1rem;
-		}
-
-		.btn {
-			font-family: 'Bebas Neue', sans-serif;
-			font-weight: normal;
-			font-size: 2rem;
-			text-align: center;
-			margin: 1em;
-		}
-
-		.btn a {
-			color: black;
-			font-weight: normal;
-			background-color: #ccc;
-			border: 1px solid #ccc;
-			padding: 3px 10px;
-			text-decoration: none;
-		}
-
-		.btn a:hover {
-			background-color: white;
-		}
-
   </style>
   <h1 class="title" >My second post</h1>
-  <!-- <div><label>Author: </label><label id="author" var="$page.author"></label></div> -->
-  <!-- <input type="date" value="2024-08-26T00:00:00"> -->
   <div id="page" ><p>This is my second post. To be updated...</p></div>
 
-  <div class="btn"><a href="/">HOME</a></div>
+  <div id="nav-container">
+	<div class="btn"><a href="/">home</a></div>
+	<div class="btn"><a href="/posts">blog</a></div>
+	<div class="btn"><a href="/notes/tech">technology</a></div>
+	<div class="btn"><a href="/notes/med">medicine</a></div>
+	<div class="btn"><a href="/notes/life">life</a></div>
+  </div>
+
 
     </div>
   </body>
