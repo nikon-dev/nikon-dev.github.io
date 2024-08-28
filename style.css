@@ -173,6 +173,10 @@ figure img {
         text-align: left;
 }
 
+#page h1{
+  font-size: 2rem;
+}
+
 #page h2 {
         font-size: 1.7rem;
         border-bottom: 1px dashed #aaa;
@@ -191,10 +195,12 @@ figure img {
         display: inline;
         font-family: 'Bebas Neue', sans-serif;
         font-weight: normal;
-        font-size: 1rem;
+        font-size: 2rem;
         text-align: center;
-        margin: 1em;
+        /* margin: 1em; */
+        line-height: 2rem;
 }
+
 
 .btn a {
         color: black;
@@ -209,4 +215,42 @@ figure img {
         background-color: white;
 }
 
+.title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 2rem;
+}
 
+
+@media (max-width:480px) {
+  .btn{
+    font-size: 1rem;
+  }
+  .btn a{
+    padding: 3px;
+  }
+
+  body {
+    font-size: 0.8rem;
+  }
+
+  .title {
+    font-size: 1.7rem;
+  }
+
+  #page h2 {
+          font-size: 1.5rem;
+  }
+
+  #page h3 {
+          font-size: 1.2rem;
+  }
+
+  #page h4 {
+          font-size: 0.8rem;
+  }
+
+
+  #content {
+    padding: 5px;
+  }
+}
