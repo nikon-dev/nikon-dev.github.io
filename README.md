@@ -1,5 +1,4 @@
-# nikon.dev
+# Notes
 
-Code for personal website [nikon.dev](https://nikon.dev)
+Collection of notes and other stuff.
 
-To be updated soon...
