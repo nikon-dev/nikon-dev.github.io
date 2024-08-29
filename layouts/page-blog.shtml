@@ -16,9 +16,9 @@
   <div id="nav-container">
 	<div class="btn"><a href="/">home</a></div>
 	<div class="btn"><a href="/posts">blog</a></div>
-	<div class="btn"><a href="/notes/tech">technology</a></div>
-	<div class="btn"><a href="/notes/med">medicine</a></div>
-	<div class="btn"><a href="/notes/life">life</a></div>
+	<div class="btn"><a href="/tech">technology</a></div>
+	<div class="btn"><a href="/med">medicine</a></div>
+	<div class="btn"><a href="/life">life</a></div>
   </div>
 
 </div>

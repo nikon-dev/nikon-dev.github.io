@@ -17,20 +17,14 @@
 - [My first post](/posts/my-first-post)
 - [My second post](/posts/my-second-post)
 
-## [Notes](/notes)
+## [Technology](/tech)
+- [Computer](/tech/computer)
+- [AI](/tech/AI)
+- [Robotics](/tech/robotics)
 
-- [Technology](/notes/tech)
-  + [Computer](/notes/tech/computer)
-  + [AI](/notes/tech/AI)
-  + [Robotics](/notes/tech/robotics)
+## [Medicine](/med)
 
-- [Medicine](/notes/med)
-
-- [Life](/notes/life)
-
-## [My dad's memoirs](/my-dad-memoirs)
-- [Script](/my-dad-memoirs/script)
-- [Audios](/my-dad-memoirs/audios)
+## [Life](/life)
 
 ## [About me](/about)
 
